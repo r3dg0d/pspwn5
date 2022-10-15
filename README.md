@@ -18,7 +18,8 @@ Hosting a localhost webserver with XAMP: https://hostfocuz.com/host-website-loca
 
 # To-Do
 - Experiment in PS5 OFW (official firmware)
-- Try to find some way to activate webkit
+- Try to find some way to activate webkit (User guide, Help guide)
+- MITM on your router to said URL, and change the url to a custom-crafted payload, which can interface with PS5 memory.
 - If possible try to dump OFW source code, or find OFW Source code
 - Try finding an RCE (Remote Code Execution)
 - Figure out how to dump OFW source code or access filesystem
