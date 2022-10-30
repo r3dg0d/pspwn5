@@ -3,6 +3,7 @@ A repo dedicated to reverse engineering the PS5 and creating a CFW to run modifi
 
 # UPDATE: PS5 JAILBROKEN!
 https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
+I will be purchasing a jailbreakable PS5 when I have the money to test the jailbreak, as well as begin development on a PS5 CFW. Shit will look cool, a lot like what homebrew on the switch is like. Might even get as good as jailbreaking an iPhone.
 
 # Resources:
 FreeBSD 13.0 SMAP Bypass (Not Tested on PS5 FW): https://hackerone.com/reports/1048322 / https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29628
