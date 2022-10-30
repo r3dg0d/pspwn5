@@ -1,7 +1,7 @@
 # pspwn5
-A repo dedicated to reverse engineering the PS5 and creating a CFW to run modified homebrew apps.
+A Repo dedicated to reverse engineering the PS5 into an absolute fucking monster.
 
-# UPDATE: PS5 JAILBROKEN!
+# 🍻 UPDATE: PS5 JAILBROKEN!
 https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
 
 
@@ -9,45 +9,59 @@ https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
 
 I will be purchasing a jailbreakable PS5 when I have the money. Then I will begin working on an appstore for the PS5, as well as its own CFW. HMU if you are a coder and want to publish your application on it when its complete. 
 
-Some projects that are PS5 Related:
+💕 Some projects that are PS5 Related:
+
+PS5-Emulator
 
 PS5-VPN
 
-FREESTORE
+PS5-IO
 
-HOMEBREW STORE
+PS5-Discord
 
-DEEPBLUE-CFW (PS5 CUSTOM FIRMWARE)
+PS5-File-Manager
 
-PS5UIKIT
+PS5-Steam
 
-PS5CONTROLKIT
+PS5-Themes
 
-TWITTERPS5
+PS5-LIVE
 
-CHROMIUMPS5
+FREESTORE (Every Playstation game and app, free, and searchable) [ILLEGAL] [EXPENSIVE] [Codename: AnonStore]
 
-VMPS5
+Privacy and Anonymity-focused PS5-CFW (PS5 CUSTOM FIRMWARE) [CODENAME: ZanderOS]
+
+PS5-UIKIT
+
+PS5-CONTROLKIT
+
+TWITTER-PS5
+
+CHROMIUM-PS5
+
+PS5-Virtualbox
 
 EMULATOR5
 
 PS5-VOICE-SEARCH
 
-Gamehacks
+Gamehacks (BANNABLE) [Project Yawn]
 
 Free-iAP-Purchases
 
+[Likelihood of bricking PS5 if something goes wrong: 89%]
 
 ⚗️The Majority of development will be sifting through official firmware code and understanding it, even printing out the code on paper and reading it. The other half will be Coding a new CFW .PUP Update file for the PS5, as well as changing the recovery via keyboard and F12 / DEL on boot.
+
+💡Idea, but a pretty bad one, is removing the ssd from the ps5, and puttin it into a pc with windows so you can see the entire PS5 FS. Would need to build a whole new PC though, lmfao...
 
 
 Basically, completely reverse-engineering the PS5 into a beast Gaming PC.
 Yeah... it's gonna be a long project.
 
 
-# Resources:
-FreeBSD 13.0 SMAP Bypass (Not Tested on PS5 FW): https://hackerone.com/reports/1048322, https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29628
-cturt PS4 walkthrough: https://cturt.github.io/ps4-2.html
+# 📖 Resources:
+Coding in 
 
 
 # Programs for messing with webpages / proxies:
@@ -55,7 +69,16 @@ https://github.com/Crypt0s/FakeDns
 
 
 # Programs for reverse-engineering files
-- Blog Post from OccupyTheWeb: https://www.hackers-arise.com/post/reverse-engineering-malware-reversing-and-disassembly-tools
+- https://github.com/pearlxcore/PS4-PKG-Tool
+- https://github.com/zecoxao/ps5-pup-decrypt
+- https://github.com/zecoxao/ps5-pup-unpacker/
+- https://code.visualstudio.com/
+- https://www.python.org/
+
+
+# Inspiration
+https://github.com/Atmosphere-NX/Atmosphere
+
 
 
 # To-Do
@@ -68,3 +91,6 @@ https://github.com/Crypt0s/FakeDns
 - edit code, and make sick webapps for PS5.
 - code new webapps for PS5.
 - Start work on PS5 CFW + Theming.
+
+
+#FYS #FUCKSONY #SONYDIESTODAY #R3DG0D
