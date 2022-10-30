@@ -10,9 +10,8 @@ FreeBSD 13.0 SMAP Bypass (Not Tested on PS5 FW): https://hackerone.com/reports/1
 cturt PS4 walkthrough: https://cturt.github.io/ps4-2.html
 
 # Programs for messing with webpages / proxies:
-Fiddler for web debugging: https://www.telerik.com/fiddler
-Wireshark for Packet analysis (probably useless): https://www.wireshark.org/
-Hosting a localhost webserver with XAMP: https://hostfocuz.com/host-website-locally/
+https://github.com/Crypt0s/FakeDns
+
 
 # Programs for reverse-engineering files
 - Blog Post from OccupyTheWeb: https://www.hackers-arise.com/post/reverse-engineering-malware-reversing-and-disassembly-tools
