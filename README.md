@@ -6,6 +6,7 @@ https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
 
 
 ⚠️NOTICE⚠️
+
 I will be purchasing a jailbreakable PS5 when I have the money. Then I will begin working on an appstore for the PS5, as well as its own CFW. HMU if you are a coder and want to publish your application on it when its complete. 
 
 Some projects that are PS5 Related:
