@@ -63,6 +63,8 @@ PS5-VOICE-SEARCH
 
 💡Idea, but a pretty bad one, is removing the ssd from the ps5, and puttin it into a pc with windows so you can see the entire PS5 FS. Would need to build a whole new PC though, lmfao...
 
+^^ Better just use PS5-FTP (File Transfer Protocol) with User Guide: https://www.youtube.com/watch?v=loaYZWOSPHE 
+
 
 😍 This project is basically, completely reverse-engineering the PS5 into a beast Gaming PC.
 Yeah... it's gonna be a long project.
