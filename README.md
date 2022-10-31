@@ -3,7 +3,7 @@ A Repo dedicated to reverse engineering the PS5 into an absolute fucking monster
 
 # 🍻 UPDATE: PS5 JAILBROKEN!
 https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
-
+https://gamerhack.github.io/
 
 ⚠️NOTICE⚠️
 
