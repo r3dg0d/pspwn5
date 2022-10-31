@@ -4,7 +4,7 @@
 - Code will not be uploaded until its perfected for the end-consumer. This is just a write-up.
 
 # 🍻 UPDATE: PS5 FW 4.XX JAILBROKEN, DEBUG SETTINGS ENABLED!
-- https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
+- 📰 https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
 - ➡️ https://gamerhack.github.io/ ⬅️
 
 ⚠️NOTICE⚠️
