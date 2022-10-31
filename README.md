@@ -91,6 +91,7 @@ https://www.youtube.com/watch?v=loaYZWOSPHE
 - install chrome .pkg
 - install filemanager .pkg
 - Start work on PS5 CFW + Theming.
+- Code FREESTORE and host it on a PHP webserver, using hostinger, with sign-up and login system.
 
 
 #FYS #FUCKSONY #SONYDIESTODAY #R3DG0D
