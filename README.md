@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=loaYZWOSPHE
 
 
 # To-Do
-- Buy PS5, do not connect it to wifi.
+- Buy PS5 Disk-Edition, Model #: 101A, do not connect it to wifi.
 - [DO NOT UPDATE IT]
 - Disable PS5 updates, then Jailbreak
 - Install some pkg files
@@ -94,6 +94,6 @@ https://www.youtube.com/watch?v=loaYZWOSPHE
 - install filemanager .pkg
 - Start work on PS5 CFW + Theming.
 - Code FREESTORE and host it on a PHP webserver, using hostinger, with sign-up and login system.
-
+- Code a RAT for the PS5 in python, cause why not.
 
 #FYS #FUCKSONY #SONYDIESTODAY #R3DG0D
