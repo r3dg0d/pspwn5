@@ -82,14 +82,14 @@ https://github.com/Atmosphere-NX/Atmosphere
 
 
 # To-Do
-- Buy PS5
+- Buy PS5, do not connect it to wifi.
 - [DO NOT UPDATE IT]
-- Experiment in PS5 OFW (official firmware)
 - Disable PS5 updates, then Jailbreak
 - Install some pkg files
-- unpack said pkg files to read the code, or find the code on github
 - edit code, and make sick webapps for PS5.
-- code new webapps for PS5.
+- port pre-existing webapps (pornhub, twitter, etc.)
+- install chrome .pkg
+- install filemanager .pkg
 - Start work on PS5 CFW + Theming.
 
 
