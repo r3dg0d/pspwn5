@@ -1,6 +1,7 @@
 # pspwn5
-A Repo dedicated to reverse engineering the PS5 into an absolute fucking monster.
-Code will not be uploaded until its perfected for the end-consumer.
+- A Repo dedicated to reverse engineering the PS5 into an absolute fucking monster.
+
+- Code will not be uploaded until its perfected for the end-consumer. This is just a write-up.
 
 # 🍻 UPDATE: PS5 JAILBROKEN!
 https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
