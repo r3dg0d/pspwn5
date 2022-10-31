@@ -66,6 +66,7 @@ Coding in C, C++, C#, makefile, java, .elf, .pkg
 
 # Programs for messing with webpages / proxies:
 https://github.com/Crypt0s/FakeDns
+https://gamerhack.github.io/
 
 
 # Programs for reverse-engineering files
