@@ -14,7 +14,8 @@ I will be purchasing a jailbreakable PS5 when I have the money. Then I will begi
 💕 Some projects that are PS5 Related:
 
 ![CliCommandPromptGIF](https://user-images.githubusercontent.com/87044255/199129347-792d5ff2-4b44-488a-8033-39211f65ecdc.gif)
-🖱️⌨️
+
+🖱️⌨️PS5-Terminal
 
 🎮 PS5-Emulator
 
