@@ -47,7 +47,7 @@ PS5-VOICE-SEARCH
 
 Gamehacks (BANNABLE) [Project Yawn]
 
-Free-iAP-Purchases
+Free-iAP-Purchases (based on cydia tweak)
 
 [Likelihood of bricking PS5 if something goes wrong: 89%]
 
