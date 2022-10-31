@@ -3,7 +3,7 @@ A Repo dedicated to reverse engineering the PS5 into an absolute fucking monster
 
 # 🍻 UPDATE: PS5 JAILBROKEN!
 https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
-
+https://gamerhack.github.io/
 
 ⚠️NOTICE⚠️
 
@@ -66,7 +66,6 @@ Coding in C, C++, C#, makefile, java, .elf, .pkg
 
 # Programs for messing with webpages / proxies:
 https://github.com/Crypt0s/FakeDns
-https://gamerhack.github.io/
 
 
 # Programs for reverse-engineering files
