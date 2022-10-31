@@ -5,7 +5,7 @@
 
 # 🍻 UPDATE: PS5 FW 4.XX JAILBROKEN, DEBUG SETTINGS ENABLED!
 - https://www.engadget.com/ps5-jailbreak-pt-firmware-155201757.html
-- >> https://gamerhack.github.io/ <<
+- ➡️ https://gamerhack.github.io/ ⬅️
 
 ⚠️NOTICE⚠️
 
@@ -13,43 +13,46 @@ I will be purchasing a jailbreakable PS5 when I have the money. Then I will begi
 
 💕 Some projects that are PS5 Related:
 
-PS5-Emulator
+![CliCommandPromptGIF](https://user-images.githubusercontent.com/87044255/199129347-792d5ff2-4b44-488a-8033-39211f65ecdc.gif)
+🖱️⌨️
 
-PS5-VPN
+🎮 PS5-Emulator
 
-PS5-IO
+🌐 PS5-VPN
 
+🎹-⌨️ 🐭-🖱️ 🎮-🕹️ 🎙️-💋 PS5-IO
+
+![DiscordVoiceOverInternetProtocolGIF](https://user-images.githubusercontent.com/87044255/199128869-6831c2e1-f9bb-4720-af58-0a54dc4e6800.gif)
 PS5-Discord
 
-PS5-File-Manager
+📂PS5-File-Manager
 
+![SteamGIF](https://user-images.githubusercontent.com/87044255/199128923-5800f295-7042-427c-be66-fcc3f1d6bbfd.gif)
 PS5-Steam
 
-PS5-Themes
+🌑 PS5-Themes
 
-PS5-LIVE
+🔴 PS5-LIVE
 
-FREESTORE (Every Playstation game and app, free, and searchable) [ILLEGAL] [EXPENSIVE] [Codename: AnonStore]
+👜 FREESTORE (Every Playstation game and app, free, and searchable) [ILLEGAL] [EXPENSIVE] [Codename: AnonStore]
 
-Privacy and Anonymity-focused PS5-CFW (PS5 CUSTOM FIRMWARE) [CODENAME: ZanderOS]
+🥸 Privacy and Anonymity-focused PS5-CFW (PS5 CUSTOM FIRMWARE) [CODENAME: ZanderOS]
 
-PS5-UIKIT
+OwO PS5-UIKIT
 
-PS5-CONTROLKIT
+UwU PS5-CONTROLKIT
 
-TWITTER-PS5
+🐦 TWITTER-PS5
 
 CHROMIUM-PS5
 
 PS5-Virtualbox
 
-EMULATOR5
-
 PS5-VOICE-SEARCH
 
-Gamehacks (BANNABLE) [Project Yawn]
+🥱 Gamehacks (BANNABLE) [Project Yawn]
 
-Free-iAP-Purchases (based on cydia tweak)
+🧑‍💻 Free-iAP-Purchases (based on cydia tweak)
 
 [Likelihood of bricking PS5 if something goes wrong: 89%]
 
@@ -58,13 +61,17 @@ Free-iAP-Purchases (based on cydia tweak)
 💡Idea, but a pretty bad one, is removing the ssd from the ps5, and puttin it into a pc with windows so you can see the entire PS5 FS. Would need to build a whole new PC though, lmfao...
 
 
-Basically, completely reverse-engineering the PS5 into a beast Gaming PC.
+😍 This project is basically, completely reverse-engineering the PS5 into a beast Gaming PC.
 Yeah... it's gonna be a long project.
 
 
 # 📖 Resources:
 Coding in C, C++, C#, makefile, java, .elf, .pkg
-
+Photoshop, JS Animations, Random.js, Video.js, etc.
+Chromium
+QEMU
+VPN
+CMD
 
 # Programs for messing with webpages / proxies:
 https://github.com/Crypt0s/FakeDns
