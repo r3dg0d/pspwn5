@@ -24,11 +24,13 @@ I will be purchasing a jailbreakable PS5 when I have the money. Then I will begi
 🎹-⌨️ 🐭-🖱️ 🎮-🕹️ 🎙️-💋 PS5-IO
 
 ![DiscordVoiceOverInternetProtocolGIF](https://user-images.githubusercontent.com/87044255/199128869-6831c2e1-f9bb-4720-af58-0a54dc4e6800.gif)
+
 PS5-Discord
 
 📂PS5-File-Manager
 
 ![SteamGIF](https://user-images.githubusercontent.com/87044255/199128923-5800f295-7042-427c-be66-fcc3f1d6bbfd.gif)
+
 PS5-Steam
 
 🌑 PS5-Themes
