@@ -112,3 +112,4 @@ https://github.com/Crypt0s/FakeDns
 
 If you want to donate some crypto so I can buy a PS5, I'll gladly take like $500 of bitcoin to buy one.
 PM me for my btc address.
+```
