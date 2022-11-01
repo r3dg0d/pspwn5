@@ -91,8 +91,8 @@ https://github.com/Crypt0s/FakeDns
 
 
 # Inspiration
-https://github.com/Atmosphere-NX/Atmosphere
-https://www.youtube.com/watch?v=loaYZWOSPHE
+- https://github.com/Atmosphere-NX/Atmosphere
+- https://www.youtube.com/watch?v=loaYZWOSPHE
 
 
 # To-Do
@@ -108,4 +108,7 @@ https://www.youtube.com/watch?v=loaYZWOSPHE
 - Code FREESTORE and host it on a PHP webserver, using hostinger, with sign-up and login system.
 - Code a RAT for the PS5 in python, cause why not.
 
-#FYS #FUCKSONY #SONYDIESTODAY #R3DG0D
+```#FYS #FUCKSONY #SONYDIESTODAY #R3DG0D
+
+If you want to donate some crypto so I can buy a PS5, I'll gladly take like $500 of bitcoin to buy one.
+PM me for my btc address.
